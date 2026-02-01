@@ -11,21 +11,20 @@
             "playerType": 2,
             "api": "csp_Wogg",
             "ext": {
-              "cookie": "https://codeberg.org/Ze-2003/ze/raw/branch/main/qk.png",
-                "site":"https://woggpan.888484.xyz"
+              "cookie": "",                "site":"https://woggpan.888484.xyz"
             }
         },
-{
-"key":"csp_Bili",
-"name":"哔哩┃哔哩",
-"type":3,
-"api":"csp_Bili",
-"quickSearch":0,
-"searchable":1,
-"ext":{            
+    {
+        "key":"csp_Bili",
+        "name":"哔哩┃哔哩",
+        "type":3,
+        "api":"csp_Bili",
+        "quickSearch":0,
+        "searchable":1,
+        "ext":{ 
 "json":"https://pan-1.vma.cc/pan/down.php/699148f919c79be3493e53c780d8e2a8.txt",
-           "cookie":""
-},
+        "cookie":""
+      },
             "style": {
                 "type": "rect",
                 "ratio": 1.333
