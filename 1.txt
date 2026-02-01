@@ -32,8 +32,8 @@
             "type": 3,
             "playerType": 2,
             "api": "csp_Wogg",
-            "ext": {
-              "cookie": "https://codeberg.org/Ze-2003/ze/raw/branch/main/qk.png",                "site":"https://woggpan.888484.xyz"
+            "ext": {  
+            "site":"https://woggpan.888484.xyz"
             }
         }
 ],
