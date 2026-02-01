@@ -26,6 +26,19 @@
         "type": "list"
       }
     },
+{
+      "key": "立春",
+      "name": "木偶┃臻彩",
+      "type": 3,
+      "api": "csp_HBNT4", "ext":"DyoqWQIrBwMuGytIIxtMWy8FMQwtNStECyoUXy0YVUg="
+    },
+    {
+      "key": "夏至",
+      "name": "至臻┃臻彩",
+      "type": 3,
+      "api": "csp_HBNT4",
+      "ext": "DyoqWQInJUMuGFdFDzUQAgIGXUUAUi9H"
+    },
         {
             "key": "玩偶哥哥",
             "name": "玩偶┃臻彩",
